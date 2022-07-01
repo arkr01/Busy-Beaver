@@ -1,10 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Test script for running a Turing machine unary adder
-
-Created on Fri Mar 29 21:57:42 2019
-
-@author: shakes
+Test script for running a Turing machine unary multiplier
 """
 from turing_machine import TuringMachine
 
