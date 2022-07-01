@@ -1,10 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Busy beaver Turing machine with 2 states.
-
-Created on Sat Mar 30 13:55:25 2019
-
-@author: shakes
+2 State Busy Beaver
 """
 from turing_machine import TuringMachine
 
